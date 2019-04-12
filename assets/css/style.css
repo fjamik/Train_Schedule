@@ -1,0 +1,28 @@
+.jumbotron {
+  background: url(../Images/NJTMultilevelIII.jpg);
+  background-size: 98%;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 10px 10px 5px #ccc;
+  
+  border-radius:25px;
+
+    
+}
+.display-4 {
+  color: darkblue;
+}
+
+#top {
+  background: url(../Images/train-track.jpg);
+  background-size: 98%;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  border-radius:25px;
+  
+}
+ #clock {
+   font-size: 1.2em;
+   text-align: center;
+ }
