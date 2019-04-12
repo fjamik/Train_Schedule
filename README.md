@@ -11,3 +11,5 @@ CSS
 Bootstrap 
 HTML5
 JS/jQuery
+
+https://github.com/fjamik/Train_Schedule/issues/1
